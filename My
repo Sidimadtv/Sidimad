@@ -1,0 +1,142 @@
+
+*{margin:0;padding:0}html{height:100%;width:100%}
+body{background: url();background-color:#031634;}
+body{margin:0; height:100%;width:100%;font-family: 'Tajawal', sans-serif;height:100%;width:100%}img{border:3px}
+.Inbody{background-color:#031634; padding-bottom:5px; border-radius:8px}
+.HeadSipar { background:#031634; padding: 10px; font: 24px "Lemonada, cursive;",georgia; color: #fff; text-decoration: none; text-align:right;border-bottom:4px solid #FF4000 }
+.img { border: 6px; border-color:#ff0000; border-style: solid }
+.countent { margin: 10px auto ;text-align:right;}
+/*---------------------LIST LIVE PAGES-----------------------*/
+.Mypage ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #000000;}
+.Mypage li {float: center;}
+.btnLiv:hover {background-color: #000000;}
+.active {background-color: #000000;}
+.Mypage li span {display: block;color: #000000;text-align: center;padding:5px 16px;text-decoration: none;}
+.Mypage li span:hover:not(.active) {background-color: #000000;}
+/*---------------------BTN_SLIV-----------------------*/
+.divTable{display: table;width: 100%;height: 100%;top:0px;background-color:#000000;}
+.divTableRow {display: table-row;}
+.divTableHeading {background-color: #000000;display: table-header-group;}
+.divTableHeading {background-color: #000000;display: table-header-group;font-weight: bold;}
+.divTableFoot {background-color: #000000;display: table-footer-group;font-weight: bold;}
+.divTableBody {display: table-row-group;}
+/*---------------------Header-----------------------*/
+.divTableHead {border-bottom:1px solid #999999;display: table-cell;padding: 3px 10px;text-align:left;}
+.divTableCellhome {border-bottom:1px solid #999999;display: table-cell;padding: 3px 10px;text-align:left;}
+.divTableHead {border-bottom:1px solid #999999;display: table-cell;padding: 3px 10px;float:centre;text-align:center;}
+.divTableCelllogo {border-bottom:1px solid #999999;display: table-cell;padding: 3px 10px;float:centre;text-align:center;}
+.divTableHead {border-bottom:1px solid #999999;display: table-cell;padding: 3px 10px;text-align:right;}
+.divTableCellcontact {border-bottom:1px solid #999999;display: table-cell;padding: 3px 10px;text-align:right;}
+.jawaltvimg{width:200px;border:4px solid #ff0000 ;border-radius:4px;padding:4px}
+.jawaltvimgR{width:200px;border:4px solid #ff0000 ;border-radius:4px;padding:4px}
+#VideoIfrm{height:500px!important; width:100px!important;}
+.VideoIfrm{height:500px!important; width:100px!important;}
+iframe{-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}
+.VideoIfrm {background:#000000;line-height:2.5em;color:#fff;font:14px "droid arabic kufi",georgia;text-align:center;margin:5px;padding:3px 3px 3px 3px;border:0px solid #333;border-width:0px;border-radius:8px;clear:both;transition:1s;}
+.VideoIfrm:hover{background:#000000;transition:1s;color:f1f1f1;}
+.DivShare {background:#000000;line-height:2.5em;color:#fff;font:14px "droid arabic kufi",georgia;text-align:center;margin:5px;padding:3px;border:1px solid #333;border-width:1px;border-radius:10px;clear:both;transition:1s;}
+.ChanlList{padding: 10px 10px;}
+/*---------------------ABOUT-----------------------*/
+.Descrip{background:#000000;line-height:2.5em;color:#fff;font:14px "droid arabic kufi",georgia;text-align:center;margin:5px;padding:3px;border:1px solid #333;border-width:1px;border-radius:10px;clear:both;transition:1s;}
+#EN{ text-align:left; padding-left:5px;padding-right:5px;direction: ltr;}
+#AR{ text-align:right;direction: rtl; padding-left:5px;padding-right:5px}
+.Footer {background:#000;line-height:2.5em;color:#fff;font:14px "droid arabic kufi",georgia;text-align:left;margin:5px;padding:3px;border:1px solid #333;border-width:1px;border-radius:2px;clear:both;transition:1s;}
+div#Cright {direction: ltr; text-align:center;border-left: #ecf0f1 solid 5px;padding: 5px; margin:2px}
+div#Cright a{text-decoration: none; color:#27ae60; font-size:16px}
+.spninfo { margin:6px; text-decoration:none; padding-bottom:3px}
+
+/*---------------------BTN_SHARE-----------------------*/
+.BtnShare{display: table;width: 100%;}
+.BtnShareRow {display: table-row;}.BtnShareHeading {background-color: #000000;display: table-header-group;}
+.BtnShareHead {border: 1px solid #999999;display: table-cell;padding: 3px 10px; text-align:center;background:#3b5998;}
+.BtnShareFac {border: 1px solid #999999;display: table-cell;padding: 3px 10px; text-align:center;background:#3b5998;}
+.BtnShareHead {border: 1px solid #999999;display: table-cell;padding: 3px 10px; text-align:center;background:#c0361a;}
+.BtnShareGplus {border: 1px solid #999999;display: table-cell;padding: 3px 10px; text-align:center;background:#c0361a;}
+.BtnShareHead {border: 1px solid #999999;display: table-cell;padding: 3px 10px; text-align:center;background:#4099ff;}
+.BtnShareTwi {border: 1px solid #999999;display: table-cell;padding: 3px 10px; text-align:center;background:#4099ff;}
+.BtnShareHeading {background-color: #EEE;display: table-header-group;font-weight: bold;}
+.BtnShareFoot {background-color: #EEE;display: table-footer-group;font-weight: bold;}
+.BtnShareBody {display: table-row-group;}
+/*--------------------------------------------*/
+.ChanlList {background:#ffffff;line-height:2.8em;color:#000000;font:26px "'Cairo', sans-serif;";text-align:center;margin:8px;padding:5px;border:4px solid #f90707;border-radius:18px;clear:both;transition:1s;}
+.ChanlList:hover{transition:1s;color:#f90707;}
+#ChanlList_1{height:auto;width:auto ;}
+.ChanlListIND .jawaltvimg{ margin:3px!important;}
+.ChanlListIND .jawaltvimgR{ margin:3px!important;}
+.BTNchOFF{background:#000000; width:100%;height:150px; line-height:2.5em;color:#fff;font:14px "'Cairo', sans-serif;",georgia;text-align:center;margin:5px;padding:3px;border:1px solid #333;border-width:1px;border-radius:10px;clear:both;transition:1s;}
+.BTNchOFF:hover {background-color: #A9BCF5;}
+.BTNchOFF:focus{outline: none;}
+.BTNchOFF:visited {color: #0B610B;}
+/*-------------------NAVBAR-----------------------*/
+.sidenav {height: 100%;width: 0; position: fixed;z-index: 1;top: 0;left: 0;background-color: #552a86;overflow-x: hidden;transition: 0.5s;padding-top: 60px;}
+.sidenav a { padding: 0px 0px 0px 32px; text-decoration: none; font-size: 25px; color: #818181; display: block; transition: 0.3s } 
+.offcanvas a:focus{color: #f1f1f1;}
+.sidenav a:hover{color: #f1f1f1;}
+.closebtn { position: absolute; top: 0; right: 25px; font-size: 36px !important; margin-left: 50px; } 
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 0px;}
+  .sidenav a {font-size: 18px;}
+}
+.RCName {text-align: left;padding-left:2px;border-bottom: 1px solid #555;}
+.RCName:hover:not(.active) { background-color: #555; color: white; }
+/*-------------------IMG Radio-----------------------*/
+.centered{border-top-left-radius: 10px;border-top-right-radius: 10px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;}
+.First{border-top-left-radius: 10px;border-top-right-radius: 10px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;}
+.Last{border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;}
+/*-------------------NAVBAR UL----------------------*/
+.Country ul li:nth-child(even){background-color:#000000;text-align:left}
+.Country ul li:nth-child(odd){background-color:#000000;text-align:left}
+.Country ul li{line-height:2em;display:block;background-image:url(images//right-arrow.png);background-position:right center;background-repeat:no-repeat;border-bottom:1px solid gray;text-align:left}
+.Country ul li a{font-weight:700;font-size:17px;white-space:nowrap;color:#fff;display:block;height:43px;text-decoration:none;min-height:31px;line-height:51px;list-style-type:none;padding:0;margin:0 0 0 20px;text-align:left}
+.name{ margin:0 0 5px 3px;left:10px;padding:5px}
+/*-------------------INDEX PAGE----------------------*/
+.row ul {list-style-type: none;padding: 0;margin: 0;background-color:#000000;width: 100%; border-radius: 10px;}
+.row ul li {line-height: 95px;}    
+.row img { float: left;margin: 0 0 0px 0;padding: 2px;}
+.row ul li:nth-child(even){background-color:rgba(0,0,0,0.5);text-align:left}
+.row ul li:nth-child(odd){background-color:rgba(0,0,0,0.2);text-align:left}
+.row p{margin:2px;padding-left: 80px;}
+.row a{ text-decoration:none;color:white}
+.row{display:-ms-flexbox;-ms-flex-wrap:wrap;flex-wrap:wrap;}
+.row ul li{background-image:url(images/right-arrow-catig.png);background-position:right center;background-repeat:no-repeat;border-bottom:1px solid gray;text-align:left}
+.row ul li:hover{background-color:#34495e}
+/*-------------------REPORT-Share----------------------*/
+.Ushare {list-style-type: none;margin: 0;padding: 0;width: 100%;background-color: #111;border: 0px solid #111;border-radius:10px}
+.Lshare a {display: block;color: #fff;padding: 8px 16px;text-decoration: none; display:inline}
+.Lshare {text-align: center;border-bottom: 1px solid #555;}
+.Lshare:last-child {border-bottom: none;}
+.Lshare a.active {background-color: #4CAF50;color: white;}
+.Fshare{padding: 14px 16px;}
+.LWbOf {padding: 14px 16px;display:block ;}
+.LWbOf:hover:not(.active) {background-color: #2E4053;color: white;}
+.LWb a {display:block ; background-image:url('/files/country/web.png');background-repeat: no-repeat;}
+.LOf a {display:block ; background-image:url('/files/country/off.png');background-repeat: no-repeat;}
+.jotform-form{display:none}
+/*-------------------MX ANDROID UL-----------------------*/
+.CHList ul .Liandroid:nth-child(even){background-color:#1C2838;text-align:left}
+.CHList ul .Liandroid:nth-child(odd){background-color:#1C2833;text-align:left}
+.CHList ul .Liandroid{line-height:2em;display:block;background-image:url(images//right-arrow.png);background-position:right center;background-repeat:no-repeat;border-bottom:1px solid gray;text-align:left}
+.CHList ul .Liandroid a{font-weight:700;font-size:17px;white-space:nowrap;color:#fff;display:block;height:43px;text-decoration:none;min-height:41px;line-height:43px;list-style-type:none;margin:0 0 0 8px;padding:0 30px;background-image:url(images/android-icon.png);background-repeat:no-repeat;background-position:1px center}
+
+/*-------------------MX IOS UL-----------------------*/
+.CHList ul .LiIOS:nth-child(even){background-color:#1C2833;text-align:left}
+.CHList ul .LiIOS:nth-child(odd){background-color:#1C2838;text-align:left}
+.CHList ul .LiIOS{line-height:2em;display:block;background-image:url(images//right-arrow.png);background-position:right center;background-repeat:no-repeat;border-bottom:1px solid gray;text-align:left}
+.CHList ul .LiIOS a{font-weight:700;font-size:17px;white-space:nowrap;color:#fff;display:block;height:43px;text-decoration:none;min-height:31px;line-height:43px;list-style-type:none;margin:0 0 0 8px;padding:0 30px;background-image:url(images/ios-icon.png);background-repeat:no-repeat;background-position:1px center}
+
+/*-------------------LIGHT BOX REPPORT-----------------------*/
+.LightBX {display: none;position: fixed;z-index: 1;padding-top: 63px;left: 0;top: 0;width: 100%;height: 100%;overflow: auto;background-color: #000000;}
+.LightBX-content {position: relative;background-color:#000000;margin: auto;padding: 0;width: 100%;max-width: 1200px;}
+.LightBX-close {color: red;background-color: black;position: absolute;bottom: 100px;width: 100%;right: 2px;text-align: center;font-size: 40px;font-weight: bold;}
+.LightBX-close:hover,.close:focus {color: #999;text-decoration: none;cursor: pointer;}
+.LightBX-cursor {cursor: pointer;}
+
+
+@media (max-width: 2000px) and (min-width: 360px) {
+        
+}
+
+.Garab{display: none!important;}.Catturk{display:}
+.Tarab{display:}
+</style><style>
+.ind{background-color: #ff0000;}
