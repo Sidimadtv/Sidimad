@@ -9,9 +9,9 @@
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "http://biptv.tv/live/biptvstream_orig/index.m3u8",
+    "url": "http://www.sidimad.ml/p/mbc3.html",
     "name": "BIPTV",
-    "type": "m3u8",
+    "type": "html",
     "language": "fr"
 }, {
     "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/60095.m3u8",
