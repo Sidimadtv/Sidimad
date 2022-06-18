@@ -4,21 +4,81 @@
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8",
     "name": "MBC-3",
     "type": "m3u8",
     "language": "ar"
 }, {
     "url": "https://tv.taghtia.com/api/embed/mbc-masr",
-    "name": "g",
-   
-    "type": "embed",
-    "language": "fr"
+   "name": "MBC-4",
+    "type": "m3u8",
+    "language": "ar"
 }, {
-    "url": "http://www.teledunet.com/?channel=1139&title=S!D!M@D-TV",
-    "name": "tel",
-    "type": "m3u8"
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
+    "name": "MBC-5",
+    "type": "m3u8",
+    "language": "ar"
 }, {
+    
+     "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
+    "name": "MBC-MASR-1",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    
+    
+      "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
+    "name": "MBC-MASR-2",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    
+    
+      "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8",
+    "name": "MBC-DRAMA",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    
+    
+      "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
+    "name": "MBC-DRAMA +",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    
+    
+    
+      "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+    "name": "MBC-PERSIA",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    
+
+    
+      "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8",
+    "name": "MBC-IRAQ",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz1.smil/playlist.m3u8",
     "name": "Al Kass 1",
     "type": "m3u8"
