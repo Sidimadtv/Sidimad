@@ -98,7 +98,7 @@
     
  
        "url": "https://dai.google.com/linear/hls/pa/event/LTh4MBRkRgaAb-mcTDJbJw/stream/7b91d645-7080-4edb-864a-b4ab7e4a475f:BRU/master.m3u8",
-    "name": "ROTANA-DRAMA",
+    "name": "ROTANA-DRA",
     "type": "m3u8",
     "language": "ar"
 }, {    
@@ -125,22 +125,22 @@
     
       
      "url": "https://weyyak-live.akamaized.net/weyyak_action/index.m3u8",
-    "name": "WEYYAK-ACTION",
+    "name": "WEYYAK-ACT",
     "type": "m3u8",
     "language": "ar"
 }, {    
     
         
      "url": "https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8",
-    "name": "WEYYAK-DRAMA",
+    "name": "WEYYAK-DRA",
     "type": "m3u8",
     "language": "ar"
     
     }, {    
     
     
-     "url": "https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8",
-    "name": "WEYYAK-DRAMA",
+     "url": "https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8",
+    "name": "WEYYAK-NAW",
     "type": "m3u8",
     "language": "ar"
     
@@ -179,58 +179,12 @@
     "name": "Al Kass 4",
     "type": "m3u8"
 }, {
-    "url": "https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8",
-    "name": "Movies Central fr",
-    "type": "m3u8"
-}, {
-    "url": "https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8",
-    "name": "Comedy Movies",
-    "type": "m3u8"
-}, {
-    "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
-    "name": "France 24",
-    "type": "m3u8"
-}, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
-    "name": "msr",
-    "type": "m3u8"
-}, {
-    "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/56911.m3u8",
-    "name": "France 3",
-    "type": "m3u8"
-}, {
-    "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/56918.m3u8",
-    "name": "France 4",
-    "type": "m3u8"
-}, {
-    "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/56919.m3u8",
-    "name": "France 5",
-    "type": "m3u8"
-}, {
-    "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/57012.m3u8",
-    "name": "m6",
-    "type": "m3u8"
-}, {
-    "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/56916.m3u8",
-    "name": "ARTE SD",
-    "type": "m3u8"
-}, {
-    "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/57014.m3u8",
-    "name": "MTV SD",
-    "type": "m3u8"
-}, {
-    "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8",
-    "name": "Sharjah Sports",
-    "type": "m3u8"
-}, {
+   
     "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
     "name": "Oman Sports",
     "type": "m3u8"
 }, {
-    "url": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8",
-    "name": "EDGE Sport",
-    "type": "m3u8"
-}, {
+  
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
     "name": "Arryadia",
     "type": "m3u8"
@@ -259,30 +213,12 @@
     "name": "Tennis Channel",
     "type": "m3u8"
 }, {
-    "url": "https://gma2.blab.email/fs2.m3u8",
-    "name": "ESPN 1",
-    "type": "m3u8"
-}, {
-    "url": "https://gma2.blab.email/espn2.m3u8",
-    "name": "ESPN 2",
-    "type": "m3u8"
-}, {
+   
     "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
     "name": "FOX Sport HD 1",
     "type": "m3u8"
 }, {
-    "url": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8",
-    "name": "FOX Sport HD 2",
-    "type": "m3u8"
-}, {
-    "url": "https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8",
-    "name": "FOX Sport HD 3",
-    "type": "m3u8"
-}, {
-    "url": "https://mj1b2xsspj.singularcdn.net.br/trace/tss/6/prog_index.m3u8",
-    "name": "Rmc 1",
-    "type": "m3u8"
-}, {
+  
     "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8",
     "name": "nat geo 1",
     "type": "m3u8"
@@ -295,54 +231,7 @@
     "name": "CGTV Documentary",
     "type": "m3u8"
 }, {
-    "url": "https://rt-doc.secure.footprint.net/1101_2500Kb.m3u8",
-    "name": "RT Documentary",
-    "type": "m3u8"
-}, {
-    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
-    "name": "cna",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8",
-    "name": "mbc action",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8",
-    "name": "mbc max",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:hlscat.com",
-    "name": "mbc 2 hd",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
-    "name": "MBC Egypt",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8",
-    "name": "mbc masr 1",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8",
-    "name": "mbc masr 2",
-    "type": "m3u8"
-}, {
-    "url": "https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8",
-    "name": "mbc drama",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:hlscat.com",
-    "name": "MBC Bollywood",
-    "type": "m3u8"
-}, {
-    "url": "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8",
-    "name": "MBC FM",
-    "type": "m3u8"
-}, {
-    "url": "https://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8",
-    "name": "France24",
-    "type": "m3u8"
-}, {
+ 
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
     "name": "Alaraby TV",
     "type": "m3u8"
@@ -351,14 +240,7 @@
     "name": "TRT Arabic",
     "type": "m3u8"
 }, {
-    "url": "https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8",
-    "name": "Yemen TV",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com",
-    "name": "mbc 3 hd",
-    "type": "m3u8"
-}, {
+
     "url": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
     "name": "spacetoon",
     "type": "m3u8"
@@ -375,23 +257,7 @@
     "name": "Dubai One",
     "type": "m3u8"
 }, {
-    "url": "https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8",
-    "name": "Rotana Cinema",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8",
-    "name": "Rotana drama HD",
-    "type": "m3u8"
-}, {
-    "url": "https://hiplayer.hibridcdn.net/p/rotana-comedy",
-    "name": "Rotana Comedy HD",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8",
-    "name": "Rotana Classic HD",
-    "type": "m3u8"
-}, {
-    "url": "https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8",
-    "name": "Rotana Music",
+    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
+    "name": "Alaraby TV",
     "type": "m3u8"
 }]
