@@ -9,13 +9,14 @@
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "http://www.sidimad.ml/p/mbc3.html",
-    "name": "BIPTV",
-    "type": "html",
+    "url": "https://tv.taghtia.com/api/embed/mbc-masr",
+    "name": "g",
+   
+    "type": "embed",
     "language": "fr"
 }, {
-    "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/60095.m3u8",
-    "name": "W9",
+    "url": "http://www.teledunet.com/?channel=1139&title=S!D!M@D-TV",
+    "name": "tel",
     "type": "m3u8"
 }, {
     "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz1.smil/playlist.m3u8",
@@ -46,8 +47,8 @@
     "name": "France 24",
     "type": "m3u8"
 }, {
-    "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/56917.m3u8",
-    "name": "France 2",
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
+    "name": "msr",
     "type": "m3u8"
 }, {
     "url": "http://maghum-ott.com:80/live/fahim9555/280A30559862/56911.m3u8",
