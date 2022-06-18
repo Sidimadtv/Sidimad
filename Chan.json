@@ -248,7 +248,7 @@
 }, {
     "url": "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
     "name": "ALJAZEERA-Doc",
-    "type": "m3u8"
+    "type": "m3u8",
     "language": "ar"
 }, {
     "url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
