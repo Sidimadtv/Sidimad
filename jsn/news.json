@@ -1,5 +1,5 @@
 [{
-   "url": "http://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+   "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
     "name": "Aljazeera",
     "type": "m3u8",
     "language": "ar"
@@ -9,7 +9,7 @@
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "http://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "name": "Aljazeera EN",
     "type": "m3u8",
     "language": "ar"
@@ -39,8 +39,8 @@
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "http://htvmada.mada.ps:8888/maannews/index.m3u8",
-    "name": "Maan",
+    "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
+    "name": "Trt Ar",
     "type": "m3u8",
     "language": "ar"
 }, {
@@ -54,33 +54,33 @@
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8",
-    "name": "MBC-IRAQ",
+    "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/index.m3u8",
+    "name": "Al Sharqiyah",
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8",
-    "name": "WANASAH",
+    "url": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq/chunks.m3u8",
+    "name": "I-News",
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8",
-    "name": "ROTANA-EGY",
+    "url": "https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8",
+    "name": "AlYaum",
     "type": "m3u8",
     "language": "ar"
 }, { 
-   "url": " https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8",
-    "name": "ROTANA-KSA",
+   "url": " https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+    "name": "Bloomberg Ar",
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8",
-    "name": "ROTANA-PLUS",
+    "url": "https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1682987709~dirs=1~hash=00e2df294be0019bffcea/ikhbariya.smil/playlist_dvr.m3u8",
+    "name": "Al Ekhbariya",
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8",
-    "name": "ROTANA-CLAS",
+    "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8",
+    "name": "BBC Ar",
     "type": "m3u8",
     "language": "ar"
 }, { 
