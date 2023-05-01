@@ -1,51 +1,51 @@
 [{
-   "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8",
-    "name": "MBC-1",
+   "url": "http://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+    "name": "Aljazeera",
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://mediawili.ga/streams/live/15062022/171512.m3u8",
-    "name": "MBC-2",
+    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+    "name": "Aljazeera Live",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8",
-    "name": "MBC-3",
+    "url": "http://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+    "name": "Aljazeera EN",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://tv.taghtia.com/api/embed/mbc-masr",
-   "name": "MBC-4",
+    "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_720p_chunks.m3u8",
+   "name": "Al Arabiya",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
-    "name": "MBC-5",
+    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+    "name": "Sky News Ar",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
-    "name": "MBC-BOLLY",
+    "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+    "name": "Al-Hadath",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
-    "name": "MBC-MASR-1",
+    "url": "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8",
+    "name": "RT Ar",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
-    "name": "MBC-MASR-2",
+    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
+    "name": "DW Ar",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8",
-    "name": "MBC-DRAMA",
+    "url": "http://htvmada.mada.ps:8888/maannews/index.m3u8",
+    "name": "Maan",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
-    "name": "MBC-DRAMA +",
+    "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+    "name": "Al Mayadeen",
     "type": "m3u8",
     "language": "ar"
 }, {
