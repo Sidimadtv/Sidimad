@@ -1,11 +1,11 @@
 [{
-   "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8",
-    "name": "MBC-1",
+   "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+    "name": "CARTOON NET",
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://mediawili.ga/streams/live/15062022/171512.m3u8",
-    "name": "MBC-2",
+    "url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
+    "name": "SPACETOON",
     "type": "m3u8",
     "language": "ar"
 }, {
