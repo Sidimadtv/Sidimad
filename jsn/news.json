@@ -1,31 +1,31 @@
 [{
    "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
-    "name": "Aljazeera",
+    "name": "AL JAZEERA",
     "type": "m3u8",
     "language": "ar"
 }, { 
     "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-    "name": "Aljazeera Live",
+    "name": "AL JAZEERA Live",
     "type": "m3u8",
     "language": "ar"
 }, {
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
-    "name": "Aljazeera EN",
+    "name": "AL JAZEERA EN",
     "type": "m3u8",
     "language": "ar"
 }, {
     "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_720p_chunks.m3u8",
-   "name": "Al Arabiya",
+   "name": "AL ARABIYA",
     "type": "m3u8",
     "language": "ar"
 }, {
     "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-    "name": "Sky News Ar",
+    "name": "SKY NEWS Ar",
     "type": "m3u8",
     "language": "ar"
 }, {
     "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-    "name": "Al-Hadath",
+    "name": "AL HADATH",
     "type": "m3u8",
     "language": "ar"
 }, {
@@ -40,37 +40,37 @@
     "language": "ar"
 }, {
     "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
-    "name": "Trt Ar",
+    "name": "TRT Ar",
     "type": "m3u8",
     "language": "ar"
 }, {
     "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
-    "name": "Al Mayadeen",
+    "name": "AL MAYADEEN",
     "type": "m3u8",
     "language": "ar"
 }, {
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/index.m3u8",
-    "name": "Al Araby",
+    "name": "AL ARABY",
     "type": "m3u8",
     "language": "ar"
 }, { 
     "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/index.m3u8",
-    "name": "Al Sharqiyah",
+    "name": "AL SHARQIAH",
     "type": "m3u8",
     "language": "ar"
 }, { 
     "url": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq/chunks.m3u8",
-    "name": "I-News",
+    "name": "I-NEWS",
     "type": "m3u8",
     "language": "ar"
 }, { 
     "url": "https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8",
-    "name": "AlYaum",
+    "name": "ALYAUM",
     "type": "m3u8",
     "language": "ar"
 }, { 
    "url": " https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
-    "name": "Bloomberg Ar",
+    "name": "BLOOMBERG Ar",
     "type": "m3u8",
     "language": "ar"
 }, { 
@@ -84,8 +84,8 @@
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://dai.google.com/linear/hls/pa/event/LTh4MBRkRgaAb-mcTDJbJw/stream/7b91d645-7080-4edb-864a-b4ab7e4a475f:BRU/master.m3u8",
-    "name": "ROTANA-DRA",
+    "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
+    "name": "AL HIWAR",
     "type": "m3u8",
     "language": "ar"
 }, {    
