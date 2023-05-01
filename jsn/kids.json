@@ -1,26 +1,26 @@
 [{
-   "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+   "url": "https://shls-masr2-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
     "name": "CARTOON NET",
     "type": "m3u8",
     "language": "ar"
 }, { 
-    "url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
+    "url": "https://shls-masr2-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
     "name": "SPACETOON",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8",
-    "name": "MBC-3",
+    "url": "https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8",
+    "name": "MAJED",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://tv.taghtia.com/api/embed/mbc-masr",
-   "name": "MBC-4",
+    "url": "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
+   "name": "MBC-3",
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
-    "name": "MBC-5",
+    "url": "https://5b622f07944df.streamlock.net/omgchannel.net/omgtv/playlist.m3u8",
+    "name": "OMG KIDS",
     "type": "m3u8",
     "language": "ar"
 }, {
