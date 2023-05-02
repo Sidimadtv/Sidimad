@@ -99,6 +99,11 @@
     "type": "iframe",
     "language": "ar"
 }, {
+    "url": "https://st07.cdn-amz-goo.net/sn3kptt6g46nuyc5wli6deqhy2p5o5c7asa75flxqjewasaiccjxscnwkefa/v.mp4",
+    "name": "namer",
+    "type": "mp4",
+    "language": "ar"
+}, {
    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
     "name": "Alaraby TV",
     "type": "m3u8"
