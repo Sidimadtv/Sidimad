@@ -1,4 +1,19 @@
 [{
+   "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8&",
+    "name": "AD SPORT -1",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+   "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+    "name": "AD SPORT -2",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+   "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?v=697045347",
+    "name": "SHARJAH SP",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
    "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1qawiv/master.m3u8",
     "name": "ALKASS -1",
     "type": "m3u8",
@@ -29,7 +44,6 @@
     "type": "m3u8",
     "language": "ar"
 }, {
-    "url": "	
     "url": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8",
     "name": "DUBAI-1",
     "type": "m3u8",
