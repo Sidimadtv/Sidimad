@@ -100,8 +100,8 @@
     "language": "ar"
 }, {
     "url": "https://www.2embed.to/embed/imdb/movie?id=tt10954600",
-    "name": "vper",
-    "type": "mp4",
+    "name": "vp",
+    "type": "iframe",
     "language": "ar"
 }, {
    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
