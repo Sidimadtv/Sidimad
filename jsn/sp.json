@@ -69,8 +69,18 @@
     "type": "m3u8",
     "language": "ar"
 }, {
-  "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8",
-    "name": "DUBAI RACING",
+  "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+    "name": "ARRYADIA MA",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8",
+    "name": "KUWAIT SP",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+    "name": "KUWAIT SP-2",
     "type": "m3u8",
     "language": "ar"
 }, {
