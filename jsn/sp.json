@@ -29,6 +29,22 @@
     "type": "m3u8",
     "language": "ar"
 }, {
+    "url": "	
+    "url": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8",
+    "name": "DUBAI-1",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8",
+    "name": "DUBAI-2",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+   "url": "https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u8",
+    "name": "DUBAI-3",
+    "type": "m3u8",
+    "language": "ar"
+}, {
    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
     "name": "Alaraby TV",
     "type": "m3u8"
