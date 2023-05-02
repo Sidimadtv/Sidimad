@@ -59,6 +59,21 @@
     "type": "m3u8",
     "language": "ar"
 }, {
+   "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/plsylist.m3u8",
+    "name": "YAS TV",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8",
+    "name": "DUBAI RACING",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+  "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8",
+    "name": "DUBAI RACING",
+    "type": "m3u8",
+    "language": "ar"
+}, {
    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
     "name": "Alaraby TV",
     "type": "m3u8"
