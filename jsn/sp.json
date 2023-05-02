@@ -86,7 +86,7 @@
 }, {
    "url": "https://tv.taghtia.com/api/embed/mbc3",
     "name": "KU",
-    "type": "m3u8",
+    "type": "iframe",
     "language": "ar"
 }, {
    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
