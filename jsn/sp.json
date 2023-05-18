@@ -170,12 +170,12 @@
     "language": "it"
 }, { 
    "url": "https://v3.sportsonline.sx/channels/hd/hd8.php",
-    "name": "SPORT-8 En-Sp",
+    "name": "SPORT-8 MIX",
     "type": "iframe",
     "language": "en"
 }, { 
    "url": "https://v3.sportsonline.sx/channels/hd/hd9.php",
-    "name": "SPORT-9 En-Sp",
+    "name": "SPORT-9 MIX",
     "type": "iframe",
     "language": "en"
 }, { 
@@ -183,6 +183,26 @@
     "name": "SPORT-10 EN",
     "type": "iframe",
     "language": "en"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/bra/br1.php",
+    "name": "SPORT-BR 1",
+    "type": "iframe",
+    "language": "br"
+}, { 
+  "url": "https://v3.sportsonline.sx/channels/bra/br2.php",
+    "name": "SPORT-BR 2",
+    "type": "iframe",
+    "language": "br"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/bra/br3.php",
+    "name": "SPORT-BR 3",
+    "type": "iframe",
+    "language": "br"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/bra/br4.php",
+    "name": "SPORT-BR 4",
+    "type": "iframe",
+    "language": "br"
 }, { 
    "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1qawiv/master.m3u8",
     "name": "ALKASS -1",
