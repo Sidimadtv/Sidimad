@@ -29,6 +29,41 @@
     "type": "iframe",
     "language": "ar"
 }, { 
+   "url": "https://livetvon.click/embed/stream-91.php",
+    "name": "BEIN AR-1",
+    "type": "iframe",
+    "language": "ar"
+}, { 
+   "url": "https://livetvon.click/embed/stream-92.php",
+    "name": "BEIN AR-2",
+    "type": "iframe",
+    "language": "ar"
+}, { 
+   "url": "https://livetvon.click/embed/stream-93.php",
+    "name": "BEIN AR-3",
+    "type": "iframe",
+    "language": "ar"
+}, { 
+   "url": "https://livetvon.click/embed/stream-94.php",
+    "name": "BEIN AR-4",
+    "type": "iframe",
+    "language": "ar"
+}, { 
+   "url": "https://livetvon.click/embed/stream-95.php",
+    "name": "BEIN AR-5",
+    "type": "iframe",
+    "language": "ar"
+}, { 
+  "url": "https://livetvon.click/embed/stream-116.php",
+    "name": "BEIN FR-1",
+    "type": "iframe",
+    "language": "ar"
+}, { 
+   "url": "https://livetvon.click/embed/stream-117.php",
+    "name": "BEIN FR-2",
+    "type": "iframe",
+    "language": "ar"
+}, { 
    "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1qawiv/master.m3u8",
     "name": "ALKASS -1",
     "type": "m3u8",
