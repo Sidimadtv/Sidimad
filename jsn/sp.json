@@ -74,11 +74,6 @@
     "type": "iframe",
     "language": "ar"
 }, { 
-   "url": "https://cricplay2.xyz/sky-sports-main-event",
-    "name": "SKY SP ME",
-    "type": "iframe",
-    "language": "ar"
-}, { 
    "url": "https://cricplay2.xyz/bt-sport-1",
     "name": "BT SP 1",
     "type": "iframe",
@@ -138,6 +133,56 @@
     "name": "ELEVEN SP-3",
     "type": "iframe",
     "language": "po"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd1.php",
+    "name": "SPORT-1 EN",
+    "type": "iframe",
+    "language": "en"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd2.php",
+    "name": "SPORT-2 EN",
+    "type": "iframe",
+    "language": "en"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd3.php",
+    "name": "SPORT-3 GE",
+    "type": "iframe",
+    "language": "ge"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd4.php",
+    "name": "SPORT-4 GE",
+    "type": "iframe",
+    "language": "ge"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd5.php",
+    "name": "SPORT-5 EN",
+    "type": "iframe",
+    "language": "en"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd6.php",
+    "name": "SPORT-6 SP",
+    "type": "iframe",
+    "language": "sp"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd7.php",
+    "name": "SPORT-7 IT",
+    "type": "iframe",
+    "language": "it"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd8.php",
+    "name": "SPORT-8 En-Sp",
+    "type": "iframe",
+    "language": "en"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd9.php",
+    "name": "SPORT-9 En-Sp",
+    "type": "iframe",
+    "language": "en"
+}, { 
+   "url": "https://v3.sportsonline.sx/channels/hd/hd10.php",
+    "name": "SPORT-10 EN",
+    "type": "iframe",
+    "language": "en"
 }, { 
    "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1qawiv/master.m3u8",
     "name": "ALKASS -1",
