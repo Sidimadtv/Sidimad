@@ -64,6 +64,11 @@
     "type": "iframe",
     "language": "ar"
 }, { 
+   "url": "https://www.footybite.tv/watch/sports-hd2.htm",
+    "name": "sppp",
+    "type": "iframe",
+    "language": "ar"
+}, { 
    "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1qawiv/master.m3u8",
     "name": "ALKASS -1",
     "type": "m3u8",
