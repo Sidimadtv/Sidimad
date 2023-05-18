@@ -14,6 +14,12 @@
     "type": "m3u8",
     "language": "ar"
 }, { 
+   { 
+   "url": "https://livetvon.click/embed/stream-98.php",
+    "name": "BEIN PRM-1",
+    "type": "iframe",
+    "language": "ar"
+}, { 
    "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1qawiv/master.m3u8",
     "name": "ALKASS -1",
     "type": "m3u8",
