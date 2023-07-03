@@ -274,27 +274,127 @@
     "type": "m3u8",
     "language": "ar"
 }, {
-   "url": "https://tv.taghtia.com/api/embed/mbc3",
-    "name": "KU",
+   "url": "https://www.ipslow.com/tv/canal.php?id=ssc1",
+    "name": "SSC SP -1",
     "type": "iframe",
     "language": "ar"
 }, {
-   "url": "https://www.sidimadtvchannels.ml/p/laayoune.html",
-    "name": "Kuui",
+   "url": "https://sportskart.click/embed/stream-614.php",
+    "name": "SSC SP -1 S2",
     "type": "iframe",
     "language": "ar"
 }, {
-    "url": "https://www.sidimad-cartoon.ml/p/namermo9anae.html",
-    "name": "namer",
+   "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
+    "name": "SSC SP -1 S3",
+    "type": "iframe",
+    "language": "ar"
+},{
+   "url": "https://www.ipslow.com/tv/canal.php?id=ssc2",
+    "name": "SSC SP -2",
     "type": "iframe",
     "language": "ar"
 }, {
-    "url": "https://www.2embed.to/embed/imdb/movie?id=tt10954600",
-    "name": "vp",
+   "url": "https://sportskart.click/embed/stream-615.php",
+    "name": "SSC SP -2 S2",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
+    "name": "SSC SP -2 S3",
+    "type": "iframe",
+    "language": "ar"
+}, {
+    "url": "https://www.ipslow.com/tv/canal.php?id=ssc3",
+    "name": "SSC SP -3",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://sportskart.click/embed/stream-616.php",
+    "name": "SSC SP -3 S2",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc3",
+    "name": "SSC SP -3 S3",
+    "type": "iframe",
+    "language": "ar"
+}, {
+    "url": "https://www.ipslow.com/tv/canal.php?id=ssc4",
+    "name": "SSC SP -4",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://sportskart.click/embed/stream-617.php",
+    "name": "SSC SP -4 S2",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc4",
+    "name": "SSC SP -4 S3",
+    "type": "iframe",
+    "language": "ar"
+}, {
+    "url": "https://www.ipslow.com/tv/canal.php?id=ssc5",
+    "name": "SSC SP -5",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://sportskart.click/embed/stream-618.php",
+    "name": "SSC SP -5 S2",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc5",
+    "name": "SSC SP -5 S3",
+    "type": "iframe",
+    "language": "ar"
+}, {
+    "url": "https://www.ipslow.com/tv/canal.php?id=ssc_extra1",
+    "name": "SSC SP Xtra-1",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://sportskart.click/embed/stream-619.php",
+    "name": "SSC SP Xtra-1 S2",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1",
+    "name": "SSC SP Xtra-1 S3",
+    "type": "iframe",
+    "language": "ar"
+},  {
+    "url": "https://www.ipslow.com/tv/canal.php?id=ssc_extra2",
+    "name": "SSC SP Xtra-2",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://sportskart.click/embed/stream-620.php",
+    "name": "SSC SP Xtra-2 S2",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2",
+    "name": "SSC SP Xtra-2 S3",
+    "type": "iframe",
+    "language": "ar"
+},  {
+    "url": "https://www.ipslow.com/tv/canal.php?id=ssc_extra3",
+    "name": "SSC SP Xtra-3",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://sportskart.click/embed/stream-621.php",
+    "name": "SSC SP Xtra-3 S2",
+    "type": "iframe",
+    "language": "ar"
+}, {
+   "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3",
+    "name": "SSC SP Xtra-3 S3",
     "type": "iframe",
     "language": "ar"
 }, {
    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
-    "name": "Alaraby TV",
+    "name": "SSC SP -5",
     "type": "m3u8"
 }]
